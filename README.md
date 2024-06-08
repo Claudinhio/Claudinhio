@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ingeniero Civil Industrial especializado en Data Science con experiencia en gestión de proyectos eCommerce, con foco en la creación de modelos predictivos para la optimización en procesos de conversión de ventas. Expertise en análisis de datos, planificación estratégica. 👋
 
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
