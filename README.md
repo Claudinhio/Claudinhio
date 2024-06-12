@@ -14,6 +14,7 @@ Ingeniero especializado en Data Science con experiencia en gestión de proyectos
 Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. 
 
 Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com o con DM en 
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl-mb/)
 
 
