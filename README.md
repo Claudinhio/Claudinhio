@@ -1,4 +1,6 @@
-## Ingeniero Civil Industrial especializado en Data Science con experiencia en gestión de proyectos eCommerce, con foco en la creación de modelos predictivos para la optimización en procesos de conversión de ventas. Expertise en análisis de datos, planificación estratégica. 👋
+### :man_technologist: Sobre mí :
+
+Ingeniero especializado en Data Science con experiencia en gestión de proyectos eCommerce, con foco en la creación de modelos predictivos para la optimización en procesos de conversión de ventas. 👋
 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
@@ -8,6 +10,8 @@
 
 </div>
 
+
+:heartbeat:Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
 
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
