@@ -1,4 +1,4 @@
-### :man_technologist: Sobre mí :
+### :telescope: Sobre mí :
 
 Ingeniero especializado en Data Science con experiencia en gestión de proyectos eCommerce, con foco en la creación de modelos predictivos para la optimización en procesos de conversión de ventas. 👋
 
@@ -10,13 +10,14 @@ Ingeniero especializado en Data Science con experiencia en gestión de proyectos
 
 </div>
 
-
-:heartbeat:Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. 
+### :mailbox: Dónde encontrarme :
+Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. 
 
 Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
 
+### :fire: Estadísticas :
 ![Claudinhio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudinhio&show_icons=true&theme=radical)
-[![Claudinhio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudinhio)](https://github.com/claudinhio/github-readme-stats)
+
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
