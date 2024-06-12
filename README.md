@@ -4,7 +4,7 @@
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,sql,github,bash,anaconda,notion)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,discord,github,bash,anaconda,notion)](https://skillicons.dev)
 
 </div>
 
