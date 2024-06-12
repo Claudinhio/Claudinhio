@@ -4,9 +4,10 @@
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,sql,github)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,sql,github,trello,jira,notion)](https://skillicons.dev)
 
 </div>
+
 
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
