@@ -11,7 +11,9 @@ Ingeniero especializado en Data Science con experiencia en gestión de proyectos
 </div>
 
 
-:heartbeat:Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
+:heartbeat:Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. 
+
+Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
 
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
