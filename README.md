@@ -1,21 +1,23 @@
-### :telescope: Sobre mí :
+### :telescope: Sobre mí 
 
 Ingeniero especializado en Data Science con experiencia en gestión de proyectos eCommerce, con foco en la creación de modelos predictivos para la optimización en procesos de conversión de ventas. 👋
 
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Lenguajes y herramientas 
 <div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,bash,latex,anaconda,stackoverflow,github,notion,discord,gmail&perline=4)](https://skillicons.dev)
 
 </div>
 
-### :mailbox: Dónde encontrarme :
+### :mailbox: Dónde encontrarme 
 Si deseas conocer más sobre mi trabajo y proyectos, te invito a visitar mi perfil de GitHub. 
 
-Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
+Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com o con DM en 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl-mb/)
 
-### :fire: Estadísticas :
+
+### :fire: Estadísticas 
 ![Claudinhio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudinhio&show_icons=true&theme=radical)
 
 <!--
