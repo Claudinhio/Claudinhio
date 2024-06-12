@@ -15,7 +15,7 @@ Ingeniero especializado en Data Science con experiencia en gestión de proyectos
 
 Para cualquier consulta o propuesta, no dudes en enviarme un correo a clmerinobeseler@gmail.com.
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=claudinhio&show_icons=true&theme=radical)
 
 <!--
 **Claudinhio/Claudinhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
